@@ -1,0 +1,7 @@
+name: Shop
+version: '${project.version}'
+main: win.oreo.shop.Shop
+api-version: 1.19
+authors: [superoreo]
+description: shop
+website: https://github.com/superoreoooooo
